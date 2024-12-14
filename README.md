@@ -39,12 +39,10 @@ I’m a passionate **Computer Science/Engineering Student** and aspiring **Softw
 
 ### 🌟 My Projects
 
-#### 🔗 [Project 1: Name](https://github.com/Beshoy1Metias/Python-ComputerVision-projects)
-A short description of what the project does and its unique features. 
-
-#### 🔗 [Project 2: Name](https://github.com/Beshoy1Metias/Greenhouse-gas-monitor)
-Another awesome project. You can include links to live demos or hosted versions if available!
-
+#### 🔗 [Project 1: Computer vision to aid individuals with disabillities](https://github.com/Beshoy1Metias/Python-ComputerVision-projects)
+This repository showcases a collection of projects that utilize Python and computer vision libraries like OpenCV and TensorFlow. The projects demonstrate image processing techniques, object detection, and advanced visual analysis, catering to real-world applications in automation and AI.
+#### 🔗 [Project 2: Greenhouse gas monitor](https://github.com/Beshoy1Metias/Greenhouse-gas-monitor)
+This project focuses on developing a system to monitor greenhouse gas levels. It integrates sensor data collection with computational analysis, enabling environmental monitoring and awareness. This tool is aimed at supporting sustainability efforts and addressing climate change challenges.
 #### 🔗 [View All Projects](https://github.com/Beshoy1Metias?tab=repositories)
 
 ---
